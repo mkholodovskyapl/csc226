@@ -1,2 +1,2 @@
 # csc226
-HelloWorld
+GoodBye
